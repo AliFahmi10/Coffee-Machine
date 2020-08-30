@@ -1,2 +1,2 @@
-# Coffee-Machine
-A little python code that how machines works.
+# Hyperskill-projects
+Simple python code projects from hyperskill.
