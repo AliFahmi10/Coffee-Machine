@@ -1,2 +1,2 @@
-# Simple Projects wit Python
+# Simple Projects with Python
 Simple python code projects.
